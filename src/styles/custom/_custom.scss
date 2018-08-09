@@ -1,0 +1,51 @@
+/* =========================================
+    Default Theme
+    ----------------------------------------
+    Fonts: Raleway & Open Sans
+    ----------------------------------------
+    Colors:
+        Moon Yellow:         #f4c613
+        Grey:                #212226
+        White Smoke:         #f4f4f4
+        White:               #fff
+        Black:               #000   
+============================================ */
+
+/* =========================================
+                Html, Body
+============================================ */
+
+* {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  color: rgba(30, 26, 28, 1);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", sans-serif !important;
+}
+
+p {
+  font-family: "Lato", sans-serif !important;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+section {
+  background: #fff;
+  overflow: hidden;
+}
